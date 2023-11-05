@@ -55,17 +55,3 @@ The dataset used in this project contains cell nucleus characteristics, includin
 4. **Calculating and Displaying the Confusion Matrix**: The confusion matrix helps evaluate the model's performance by counting true negatives, false positives, false negatives, and true positives.
 
 5. **Calculating the Percentage of Correct Predictions**: We calculate the percentage of correct predictions to provide an overall measure of model accuracy.
-
-## Requirements
-
-- Python (version X.X.X)
-- Pandas (version X.X.X)
-- Statsmodels (version X.X.X)
-- Scikit-learn (version X.X.X)
-
-## Usage
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/breast-cancer-diagnosis.git
