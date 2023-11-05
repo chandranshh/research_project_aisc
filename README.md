@@ -8,12 +8,7 @@ This repository contains code and a logistic regression model for breast cancer 
 
 - [Dataset](#dataset)
 - [How it Works](#how-it-works)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Dataset
 
 The dataset used in this project contains cell nucleus characteristics, including radius, texture, smoothness, and more. The target variable is the diagnosis, which can be either 'M' for malignant or 'B' for benign. We've used this data to build a logistic regression model for breast cancer diagnosis.
